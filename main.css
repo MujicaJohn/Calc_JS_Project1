@@ -1,3 +1,4 @@
+
 *{
   padding: 0;
   margin: 0;
@@ -5,7 +6,7 @@
 }
 
 body {
-  background: url("https://previews.123rf.com/images/alekss/alekss1504/alekss150400058/38397954-dollars-money-background.jpg");
+  background-image: url("https://previews.123rf.com/images/alekss/alekss1504/alekss150400058/38397954-dollars-money-background.jpg");
   background-color: #EAF6f6;
   place-items: center;
   display: grid;
