@@ -3,13 +3,16 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 body {
+  background: url("https://previews.123rf.com/images/alekss/alekss1504/alekss150400058/38397954-dollars-money-background.jpg");
   background-color: #EAF6f6;
   place-items: center;
   display: grid;
 }
 
 .container {
+  background-color: #FF00FF;
   padding: 20px; 
   height: 750px;
   width: 400px;
@@ -17,4 +20,3 @@ body {
   
 
 }
-
