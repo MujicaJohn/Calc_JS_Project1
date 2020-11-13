@@ -1,11 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 body {
   background-color: #EAF6f6;
+  place-items: center;
 }
 
 .container {
   height: 750px;
-  width: 100px;
+  width: 400px;
   position: relative;
-  padding: 20px;
   
+
 }
